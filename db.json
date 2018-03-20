@@ -12,5 +12,19 @@
       "id": 3,
       "text": "Arvind"
     }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "text": "Mr. Abc"
+    },
+    {
+      "id": 2,
+      "text": "Ms. Def"
+    },
+    {
+      "id": 3,
+      "text": "Mr. Lol"
+    }
   ]
 }
