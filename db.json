@@ -26,5 +26,33 @@
       "id": 3,
       "text": "Mr. Lol"
     }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "text": "PolkaDot Shirt"
+    },
+    {
+      "id": 2,
+      "text": "Stripped Shirt"
+    },
+    {
+      "id": 3,
+      "text": "Denim Jeans"
+    }
+  ],
+  "productType": [
+    {
+      "id": 1,
+      "text": "Shirt"
+    },
+    {
+      "id": 2,
+      "text": "Pant"
+    },
+    {
+      "id": 3,
+      "text": "Box"
+    }
   ]
 }
