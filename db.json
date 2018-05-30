@@ -21,34 +21,6 @@
       "gender": "f"
     }
   ],
-  "company": [
-    {
-      "id": 1,
-      "text": "Raymond"
-    },
-    {
-      "id": 2,
-      "text": "Jade Blue"
-    },
-    {
-      "id": 3,
-      "text": "Arvind"
-    }
-  ],
-  "customer": [
-    {
-      "id": 1,
-      "text": "Mr. Abc"
-    },
-    {
-      "id": 2,
-      "text": "Ms. Def"
-    },
-    {
-      "id": 3,
-      "text": "Mr. Lol"
-    }
-  ],
   "product": [
     {
       "id": 1,
