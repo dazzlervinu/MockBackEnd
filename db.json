@@ -1,10 +1,26 @@
-
 {
   "auth":
     {
       "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEyMzQ1Njc4OTAiLCJuYW1lIjoiSm9obiBEb2UiLCJ0eXBlIjoidm9sdW50ZWVyIn0.ySxqWt67SpPJchUvgrE3VxdfI7ukoObElgLCgyDM6e4"
     }
   ,
+  "members": [
+    {
+      "id": 1,
+      "name": "Ashvin Prajapati",
+      "gender": "m"
+    },
+    {
+      "id": 2,
+      "name": "Jayesh Vaghela",
+      "gender": "m"
+    },
+    {
+      "id": 3,
+      "name": "Shushmita Sharma",
+      "gender": "m"
+    }
+  ],
   "company": [
     {
       "id": 1,
